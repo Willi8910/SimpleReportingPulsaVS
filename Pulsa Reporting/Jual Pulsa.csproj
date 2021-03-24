@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15163167-56D7-48F5-886C-DD201B774E34}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jual_Pulsa</RootNamespace>
+    <AssemblyName>Jual Pulsa</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckDate.cs" />
+    <Compile Include="CheckPoint.cs" />
+    <Compile Include="DisplayOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayOperator.Designer.cs">
+      <DependentUpon>DisplayOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FBuatOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FBuatOperator.Designer.cs">
+      <DependentUpon>FBuatOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FBuatPulsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FBuatPulsa.Designer.cs">
+      <DependentUpon>FBuatPulsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetailPulsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailPulsa.Designer.cs">
+      <DependentUpon>DetailPulsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCheckPointDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCheckPointDisplay.Designer.cs">
+      <DependentUpon>FCheckPointDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDetailOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDetailOperator.Designer.cs">
+      <DependentUpon>FDetailOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FOnePulsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOnePulsa.Designer.cs">
+      <DependentUpon>FOnePulsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INT.cs" />
+    <Compile Include="ITransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITransaksi.Designer.cs">
+      <DependentUpon>ITransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operator.cs" />
+    <Compile Include="Pulsa.cs" />
+    <Compile Include="PulsaMkios.cs" />
+    <Compile Include="SubTransaction.cs" />
+    <Compile Include="Transaction.cs" />
+    <Compile Include="TransaksiKhusus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiKhusus.Designer.cs">
+      <DependentUpon>TransaksiKhusus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi.Designer.cs">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransKhususBaru.cs" />
+    <Compile Include="TransKhusus.cs" />
+    <Compile Include="Utama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utama.Designer.cs">
+      <DependentUpon>Utama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DisplayOperator.resx">
+      <DependentUpon>DisplayOperator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FBuatOperator.resx">
+      <DependentUpon>FBuatOperator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FBuatPulsa.resx">
+      <DependentUpon>FBuatPulsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailPulsa.resx">
+      <DependentUpon>DetailPulsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCheckPointDisplay.resx">
+      <DependentUpon>FCheckPointDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDetailOperator.resx">
+      <DependentUpon>FDetailOperator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FOnePulsa.resx">
+      <DependentUpon>FOnePulsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITransaksi.resx">
+      <DependentUpon>ITransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiKhusus.resx">
+      <DependentUpon>TransaksiKhusus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi.resx">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utama.resx">
+      <DependentUpon>Utama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resources\Tkhusus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apply.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DataDel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pulsa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Operator.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transaksi Khusus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transaksi Pulsa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transaksi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DataDelAk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transaksi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Operator.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

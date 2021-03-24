@@ -1,0 +1,126 @@
+D:\Jual Pulsa\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\Jual Pulsa\Jual Pulsa\bin\Debug\Jual Pulsa.exe
+D:\Jual Pulsa\Jual Pulsa\bin\Debug\Jual Pulsa.pdb
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual Pulsa.csprojResolveAssemblyReference.cache
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.Utama.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.Properties.Resources.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual Pulsa.csproj.GenerateResource.Cache
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.DetailPulsa.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatPulsa.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.FOnePulsa.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.DisplayOperator.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.FDetailOperator.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatOperator.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.Transaksi.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.History.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.FCheckPointDisplay.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.ITransaksi.resources
+D:\Jual Pulsa\Jual Pulsa\obj\Debug\Jual_Pulsa.TransaksiKhusus.resources
+D:\Jual Pulsa V2\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual Pulsa.csprojResolveAssemblyReference.cache
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatOperator.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatPulsa.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.DetailPulsa.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.FCheckPointDisplay.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.FDetailOperator.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.FOnePulsa.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.History.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.ITransaksi.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.TransaksiKhusus.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.Transaksi.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.Utama.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.Properties.Resources.resources
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual Pulsa.csproj.GenerateResource.Cache
+D:\Jual Pulsa V2\Jual Pulsa\bin\Debug\Jual Pulsa.exe
+D:\Jual Pulsa V2\Jual Pulsa\bin\Debug\Jual Pulsa.pdb
+D:\Jual Pulsa V2\Jual Pulsa\obj\Debug\Jual_Pulsa.DisplayOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\bin\Debug\Jual Pulsa.exe
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\bin\Debug\Jual Pulsa.pdb
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual Pulsa.csprojResolveAssemblyReference.cache
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.DisplayOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatPulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.DetailPulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.FCheckPointDisplay.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.FDetailOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.FOnePulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.History.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.ITransaksi.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.TransaksiKhusus.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.Transaksi.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.Utama.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual_Pulsa.Properties.Resources.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)\Jual Pulsa\obj\Debug\Jual Pulsa.csproj.GenerateResource.Cache
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\bin\Debug\Jual Pulsa.exe
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\bin\Debug\Jual Pulsa.pdb
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual Pulsa.csprojResolveAssemblyReference.cache
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.DisplayOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatPulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.DetailPulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.FCheckPointDisplay.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.FDetailOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.FOnePulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.History.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.ITransaksi.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.TransaksiKhusus.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.Transaksi.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.Utama.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual_Pulsa.Properties.Resources.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadi\Jual Pulsa\obj\Debug\Jual Pulsa.csproj.GenerateResource.Cache
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual Pulsa.csprojResolveAssemblyReference.cache
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.DisplayOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatPulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.DetailPulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.FCheckPointDisplay.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.FDetailOperator.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.FOnePulsa.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.History.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.ITransaksi.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.TransaksiKhusus.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.Transaksi.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.Utama.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual_Pulsa.Properties.Resources.resources
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\obj\Debug\Jual Pulsa.csproj.GenerateResource.Cache
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\bin\Debug\Jual Pulsa.exe
+D:\William\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan\Jual Pulsa\bin\Debug\Jual Pulsa.pdb
+D:\Programming and Design\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan(Beneran)\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\Programming and Design\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\Programming and Design\Visual Studio\Pulsa\Jual Pulsa (Jadi)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.csprojResolveAssemblyReference.cache
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.DisplayOperator.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatOperator.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.FBuatPulsa.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.DetailPulsa.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.FCheckPointDisplay.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.FDetailOperator.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.FOnePulsa.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.History.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.ITransaksi.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.TransaksiKhusus.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.Transaksi.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.Utama.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual_Pulsa.Properties.Resources.resources
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.csproj.GenerateResource.Cache
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\bin\Debug\Jual Pulsa.exe
+D:\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\bin\Debug\Jual Pulsa.pdb
+D:\Programming and Design\Visual Studio\Pulsa\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\bin\Debug\Jual Pulsa.exe.config
+D:\Programming and Design\Visual Studio\Pulsa\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.exe
+D:\Programming and Design\Visual Studio\Pulsa\Jual Pulsa (Z)asli jadiBetulan(Beneran)\Jual Pulsa\obj\Debug\Jual Pulsa.pdb
